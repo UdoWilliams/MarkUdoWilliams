@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Udo Williams</h1>
+<h1 align="center"> Greetings 👋, I'm Udo Williams</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/UdoWilliams/Resumecyber/main/picyber1.jpg"> </div>
 <h3 align="center">Challenge driven Adventurous CyberSecurity Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udowilliams&label=Profile%20views&color=0e75b6&style=flat" alt="udowilliams" /> </p>
+
+- Resumes Certification and Projects [https://github.com/UdoWilliams/Resumecyber)
 
 - Comptia Security + [https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/CompTIA%20Security%2B%20ce%20certificate.pdf](https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/CompTIA%20Security%2B%20ce%20certificate.pdf)
 
