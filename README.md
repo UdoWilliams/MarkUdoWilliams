@@ -7,7 +7,7 @@
 
 - Resumes Certification [https://github.com/UdoWilliams/Resumecyber)
 
-- CyberSecurity Project Azure HoneyNet with Soc [https://github.com/UdoWilliams/Azure-Honeynet-Soc)
+- CyberSecurity Project Azure HoneyNet with Soc [https://github.com/UdoWilliams/AzureHoneynetSoc)
 
 - Repositories [https://github.com/UdoWilliams?tab=repositories)
 
