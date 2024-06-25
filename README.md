@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udowilliams&label=Profile%20views&color=0e75b6&style=flat" alt="udowilliams" /> </p>
 
-- Resumes Certification and Cyber Security Labs [https://github.com/UdoWilliams/Resumecyber)
+- Resumes Certification [https://github.com/UdoWilliams/Resumecyber)
 
 - Comptia Security + [https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/CompTIA%20Security%2B%20ce%20certificate.pdf](https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/CompTIA%20Security%2B%20ce%20certificate.pdf)
 
