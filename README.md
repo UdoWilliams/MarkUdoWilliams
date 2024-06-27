@@ -1,19 +1,15 @@
 <h1 align="center"> Greetings 👋, I'm Udo Udo Williams</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/UdoWilliams/Resumecyber/main/picyber1.jpg"> </div>
 <h3 align="center">Challenge driven Adventurous CyberSecurity Analyst</h3>
-<img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
-
+<img align="right" alt="coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udowilliams&label=Profile%20views&color=0e75b6&style=flat" alt="udowilliams" /> </p>
 
 - # CyberSecurity Project Azure HoneyNet with Soc [https://github.com/UdoWilliams/AzureHoneynetSoc)
-
 - Resumes Certification [https://github.com/UdoWilliams/Resumecyber)
-
+- Repositories [https://github.com/UdoWilliams?tab=repositories)
 - CyberSecurity Project Azure HoneyNet with Soc [https://github.com/UdoWilliams/AzureHoneynetSoc)
 
 - Business Continuity Plan For Suncoast Nursing [https://github.com/UdoWilliams/SuncoastBusinessContinuityPlan)
-
-- Repositories [https://github.com/UdoWilliams?tab=repositories)
 
 - Comptia Security + [https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/CompTIA%20Security%2B%20ce%20certificate.pdf](https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/CompTIA%20Security%2B%20ce%20certificate.pdf)
 
