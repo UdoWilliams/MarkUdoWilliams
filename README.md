@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udowilliams&label=Profile%20views&color=0e75b6&style=flat" alt="udowilliams" /> </p>
 
+- # CyberSecurity Project Azure HoneyNet with Soc [https://github.com/UdoWilliams/AzureHoneynetSoc)
+
 - Resumes Certification [https://github.com/UdoWilliams/Resumecyber)
 
 - CyberSecurity Project Azure HoneyNet with Soc [https://github.com/UdoWilliams/AzureHoneynetSoc)
