@@ -1,4 +1,4 @@
-<h1 align="center"> Greetings 👋, I'm Udo Udo Williams</h1>
+<h1 align="center"> Greetings 👋, I'm Mark Udo Williams</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/UdoWilliams/Resumecyber/main/picyber1.jpg"> </div>
 <h3 align="center">Challenge driven Adventurous CyberSecurity Professional</h3>
 <img align="right" alt="coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
