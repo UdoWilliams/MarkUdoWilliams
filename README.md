@@ -1,5 +1,5 @@
 <h1 align="center"> Greetings 👋, I'm Mark Udo Williams</h1>
-- Here you will find projects, and educational materials related to network security and IT infrastructure. Included are hands-on exercises covering topics such as analyzing network traffic with Wireshark, configuring firewall interfaces with pfSense, and designing secure network topologies. Additionally, you can explore my certifications, resume, and other relevant documents. Dive in to discover more about my skills and experiences in the field of IT and network security.)
+Here you will find projects, and educational materials related to network security and IT infrastructure. Included are hands-on exercises covering topics such as analyzing network traffic with Wireshark, configuring firewall interfaces with pfSense, and designing secure network topologies. Additionally, you can explore my certifications, resume, and other relevant documents. Dive in to discover more about my skills and experiences in the field of IT and network security.
 <div align="center"> <img src="https://raw.githubusercontent.com/UdoWilliams/Resumecyber/main/picyber1.jpg"> </div>
 <h3 align="center">Challenge driven Adventurous CyberSecurity Professional</h3>
 <img align="right" alt="coding" width="300" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
