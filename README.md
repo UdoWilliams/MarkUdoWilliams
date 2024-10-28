@@ -14,8 +14,6 @@ Here you will find projects, and educational materials related to network securi
 
 - Comptia Security + [https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/CompTIA%20Security%2B%20ce%20certificate.pdf](https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/CompTIA%20Security%2B%20ce%20certificate.pdf)
 
-- Comptia Network + [CompTIA Network+ ce certificate.pdf](https://github.com/user-attachments/files/17549579/CompTIA.Network%2B.ce.certificate.pdf)
-
 - Microsoft Certified Azure Fundamentals [https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/1697472866571.jpg](https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/1697472866571.jpg)
 
 - ISC2 Certified In CyberSecurity **https://github.com/UdoWilliams/Resumecyber/blob/main/CyberCertifications/ISC2-CC-Logo-OG.png**
